@@ -24,7 +24,7 @@ Skoru ekrana yazdırma
 Skorun artması ile engellerin hızının artması
 
 
-  # 21360859056 Rukiye Boğa Numaralı öğrencinin aksiyonları:
+  # 21360859056 Rukiye Boğa isimli öğrencinin aksiyonları:
 Oyuncu hareket ettirme
 Oyuncu engele çarptığında canı azalması ve oyunun sonlanması
 Oyuncu yemek yediğinde gerçekleşenler
